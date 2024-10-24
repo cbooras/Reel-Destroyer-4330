@@ -20,7 +20,7 @@ The Reel Destroyer is an application designed to help users manage and limit the
 ## Non-Functional Requirements
 - The app will run efficiently without draining the battery.
 - Simple, user-friendly interface.
-- Available for iOS and Android devices.
+- Available for iOS 
 - Secure storage of user data.
 - Scalable for a growing user base.
 
